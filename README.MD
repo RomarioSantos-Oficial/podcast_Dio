@@ -183,9 +183,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Romário Santos**
+**Romario Santos**
 - GitHub: [@RomarioSantos-Oficial](https://github.com/RomarioSantos-Oficial)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/euoromario)
+- LinkedIn: [euoromario](https://www.linkedin.com/in/euoromario)
 
 ---
 
